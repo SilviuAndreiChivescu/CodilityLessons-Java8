@@ -8,18 +8,23 @@ Solutions to Codility Lessons (all of them are done by me):
 **OddOccurrencesInArray** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/training2RS66U-MMR/
 ## Time Complexity
 
-**FrogJmp** - 100% score solution. Link at Coility: https://app.codility.com/demo/results/trainingB2CU9Y-QZU/
+**FrogJmp** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/trainingB2CU9Y-QZU/
 
-**PermMissingElem** - 100% score solution. Link at Coility: https://app.codility.com/demo/results/training2DP3UX-V7C/
+**PermMissingElem** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/training2DP3UX-V7C/
 
-**TapeEquilibrium** - 53% score solution. Link at Coility: https://app.codility.com/demo/results/trainingZQ4RGE-VRD/
+**TapeEquilibrium** - 53% score solution. Link at Codility: https://app.codility.com/demo/results/trainingZQ4RGE-VRD/
 ## Counting elements
 
-**MaxCounters** - 66% score solution. Link at Coility: https://app.codility.com/demo/results/trainingZU3T7A-BNX/
+**MaxCounters** - 66% score solution. Link at Codility: https://app.codility.com/demo/results/trainingZU3T7A-BNX/
 
-**MissingInteger** - 55% score solution. Link at Coility: https://app.codility.com/demo/results/trainingZ5G929-Q5Y/
+**MissingInteger** - 55% score solution. Link at Codility: https://app.codility.com/demo/results/trainingZ5G929-Q5Y/
 
-**PermCheck** - 83% score solution. Link at Coility: https://app.codility.com/demo/results/trainingT4F8FF-WXU/
+**PermCheck** - 83% score solution. Link at Codility: https://app.codility.com/demo/results/trainingT4F8FF-WXU/
 ## Prefix Sums
 
-**CountDiv** - 50% score solution. Link at Coility: https://app.codility.com/demo/results/trainingTHVDCM-K6X/
+**CountDiv** - 50% score solution. Link at Codility: https://app.codility.com/demo/results/trainingTHVDCM-K6X/
+## Sorting
+
+**Distinct** - 100% score solution. Link at Codility: https://app.codility.com/demo/results/trainingDYH5R3-E5S/
+
+**MaxProductOfThree** - 44% score solution. Link at Codility: https://app.codility.com/demo/results/trainingB75W2U-Q3C/
